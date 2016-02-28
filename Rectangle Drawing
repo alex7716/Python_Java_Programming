@@ -1,0 +1,5 @@
+// draw a rectangle at (100, 50) with width 200 and height 100
+rect(100, 150, 200, 100);
+
+// draw a rounded rectangle at (150, 300) with width 100 and height 50
+rect(150, 300, 100, 50, 30);
