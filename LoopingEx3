@@ -1,0 +1,6 @@
+ingradients = ['snails', 'leeches', 'gorilla belly-button lint',
+'caterpillar eyebrows', 'centipede toes']
+y = 1
+for x in ingradients:
+    print (y, x)
+    y=y+1
